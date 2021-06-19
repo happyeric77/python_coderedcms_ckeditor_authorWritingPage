@@ -5,10 +5,9 @@
 ![preview#1](https://lh3.googleusercontent.com/pw/ACtC-3fVQs59cqanUatzkogo-XUhXNR6BK2U2T_Oxr8i2yJUU85Ey2Eml4WGaesKJXvCV-GJjQ85SwA5sCKecFhTPG7N6DL776td2Muk3AbL2XzXjeq0er4wxxQ5SwPE4deZY-09ETrGKnzyjwKBEILQlKibkA=w1762-h944-no?authuser=0)
 
 
-## Release note of source code
-
 ### Dependencies of this feature:
 
+coderedcms==0.20.*
 django-ckeditor==6.1.0
 
 ### model.py
