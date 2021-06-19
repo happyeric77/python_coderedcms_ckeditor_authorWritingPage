@@ -1,0 +1,13 @@
+{% load wagtailcore_tags %}
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<div>
+    <form method="post">{% csrf_token %}
+        title: <br>
+        {{form.title}}<br>
+        
+        draft: <br>
+        {{form.media}}
+        {{form.draft | safe}}<br>
+        <input type="submit" value="Submit">
+    </form>
+</div>

@@ -1,0 +1,2 @@
+coderedcms==0.20.*
+django-ckeditor==6.1.0
